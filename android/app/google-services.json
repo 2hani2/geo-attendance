@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86298025961",
+    "project_id": "pinpresence-e4843",
+    "storage_bucket": "pinpresence-e4843.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86298025961:android:a48cd9f0a2f33d580b7578",
+        "android_client_info": {
+          "package_name": "com.venisa.geo_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinBmI4qk6J1bu-iQ_yNN5-2JwAe-4m7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
